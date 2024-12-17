@@ -1,4 +1,4 @@
 ---
-- src: git+
+- src: git+https://github.com/ReDZiLLa7/ansible-role-openvpn.git
   scm: git
   name: openvpn
